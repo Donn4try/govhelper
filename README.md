@@ -25,8 +25,4 @@ Hello! I want to present my project in the form of an govhelper for players who 
 
 **For those of you who are familiar with the govhelper UI design, MTG MOD and I have been working together to create this project since last year.**
 
-**Download** <url src="www.google.com"/>
-
-<a href="https://docs.github.com" target="_blank">Cek dokumentasi</a>
-
-[Cek dokumentasi](https://docs.github.com)
+<a href="https://www.mediafire.com/file/c016gyxqhqw7t64/GovHelper_beta.lua/file" target="_blank">Download</a>
