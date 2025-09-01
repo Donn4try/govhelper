@@ -25,4 +25,6 @@ Hello! I want to present my project in the form of an govhelper for players who 
 
 **For those of you who are familiar with the govhelper UI design, MTG MOD and I have been working together to create this project since last year.**
 
-<a href="https://www.mediafire.com/file/c016gyxqhqw7t64/GovHelper_beta.lua/file" target="_blank">Download</a>
+<a href="https://www.mediafire.com/file/c016gyxqhqw7t64/GovHelper_beta.lua/file" target="_blank">Download V4.3</a>
+
+<a href="https://www.mediafire.com/file/373jnylcy9ifz1x/GovHelper_V4.7a2_beta.lua/file" target="_blank">Download V4.7a2 beta (lates)</a>
